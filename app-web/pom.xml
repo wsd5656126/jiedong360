@@ -76,7 +76,7 @@
         </dependency>
         <dependency>
             <groupId>com.wusd</groupId>
-            <artifactId>016_entity</artifactId>
+            <artifactId>app-entity</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
