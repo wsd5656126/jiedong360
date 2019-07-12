@@ -12,21 +12,6 @@
 </head>
 <body>
     <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
-    <h1 align="center"><a href="test">洁洁宝贝,我爱你</a></h1>
 
 </body>
 </html>
